@@ -5,7 +5,7 @@
 - [Home-en](./index-en.md)
 
 # T4n OS
-- [Overview](./t4n-os/SUMMARY.md)
+- [Overview](./t4n-os/index.md)
 
 # VUR
-- [Overview](./vur/SUMMARY.md)
+- [Overview](./vur/index.md)
